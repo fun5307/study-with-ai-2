@@ -12,6 +12,7 @@ dependencies = [
     "kiwipiepy>=0.23.2",
     "matplotlib>=3.11.1",
     "networkx>=3.6.1",
+    "openai>=3.13.0",
     "pandas>=3.0.5",
     "playwright>=1.62.0",
     "plotly>=7.0.0",
@@ -20,6 +21,7 @@ dependencies = [
     "scikit-learn>=1.9.1",
     "scipy>=1.18.1",
     "seaborn>=0.13.2",
+    "sentence-transformers>=6.0.1",
     "statsmodels>=0.15.0",
     "wordcloud>=1.9.6",
 ]
